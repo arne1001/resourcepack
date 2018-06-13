@@ -1,0 +1,17 @@
+{
+	"custom.intro": {
+		"sounds": [
+			"custom/intro"
+		]
+	},
+        "custom.shotgun": {
+		"sounds": [
+			"custom/shotgun"
+		]
+	},
+    "custom.fairytailmain": {
+		"sounds": [
+			"custom/fairytailmain"
+		]
+	}
+}
